@@ -35,7 +35,7 @@
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/your-username/learnify.git
-````
+
 
 2. **Install Dependencies**:
    Navigate to the project folder and install the required dependencies for both frontend and backend.
@@ -147,5 +147,6 @@ Here are some screenshots of the application:
 - **Snapshots**: A placeholder for images that demonstrate the application.
 
 This professional structure ensures clarity and easy navigation for anyone using or contributing to your project.
+
 
 
