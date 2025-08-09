@@ -1,3 +1,4 @@
+Here's a more professional and detailed `README.md` file for your project, including setup instructions, running the project, and other essential details:
 
 ````markdown
 # Learnify - AI-Powered Educational Web Application  
