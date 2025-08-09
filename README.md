@@ -1,6 +1,4 @@
-Here's a more professional and detailed `README.md` file for your project, including setup instructions, running the project, and other essential details:
 
-````markdown
 # Learnify - AI-Powered Educational Web Application  
 ##### International Islamic University Chittagong
 
@@ -19,7 +17,7 @@ Here's a more professional and detailed `README.md` file for your project, inclu
 
 **Learnify** is a web application designed to assist teachers, students, and trainers by enabling them to upload study materials, interact with the content using AI, and automatically generate quizzes. This application aims to enhance the learning experience by helping users understand and review materials more effectively through AI-driven content interaction and quiz generation.
 
----
+
 
 # <h2 id="Objective">📜 Objective</h2>  
 
@@ -28,7 +26,7 @@ Here's a more professional and detailed `README.md` file for your project, inclu
 3. **Methodology**: The project will use AI algorithms to extract meaningful information from uploaded content and automatically create quizzes in multiple formats, such as multiple-choice, true/false, and short answer.
 4. **Result**: Deliver a fully functional web app that streamlines the learning process with automated quizzes and AI-driven content explanations.
 
----
+
 
 # <h2 id="How_to_Use">📜 How to Use</h2>  
 
@@ -139,7 +137,7 @@ Here are some screenshots of the application:
 * **AI Chat Assistant**:
   ![AI Chat Assistant](assets/screenshot-chat.png)
 
-```
+
 
 ### Key Features:
 - **How to Use**: This section gives step-by-step instructions on how to set up and run the project locally.
@@ -149,4 +147,5 @@ Here are some screenshots of the application:
 - **Snapshots**: A placeholder for images that demonstrate the application.
 
 This professional structure ensures clarity and easy navigation for anyone using or contributing to your project.
-```
+
+
