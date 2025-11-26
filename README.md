@@ -34,7 +34,7 @@
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/learnify.git
+   git clone https://github.com/Momit87/leanify_SD
 
 
 2. **Install Dependencies**:
@@ -147,6 +147,7 @@ Here are some screenshots of the application:
 - **Snapshots**: A placeholder for images that demonstrate the application.
 
 This professional structure ensures clarity and easy navigation for anyone using or contributing to your project.
+
 
 
 
